@@ -1,0 +1,10 @@
+C:\Users\KB\Desktop\popol\Portfolio\CarManager_MSSQL\CarManager\CarManager\bin\Debug\CarManager.exe.config
+C:\Users\KB\Desktop\popol\Portfolio\CarManager_MSSQL\CarManager\CarManager\bin\Debug\CarManager.exe
+C:\Users\KB\Desktop\popol\Portfolio\CarManager_MSSQL\CarManager\CarManager\bin\Debug\CarManager.pdb
+C:\Users\KB\Desktop\popol\Portfolio\CarManager_MSSQL\CarManager\CarManager\obj\Debug\CarManager_Modified.csprojAssemblyReference.cache
+C:\Users\KB\Desktop\popol\Portfolio\CarManager_MSSQL\CarManager\CarManager\obj\Debug\CarManager.Form1.resources
+C:\Users\KB\Desktop\popol\Portfolio\CarManager_MSSQL\CarManager\CarManager\obj\Debug\CarManager.Properties.Resources.resources
+C:\Users\KB\Desktop\popol\Portfolio\CarManager_MSSQL\CarManager\CarManager\obj\Debug\CarManager_Modified.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\popol\Portfolio\CarManager_MSSQL\CarManager\CarManager\obj\Debug\CarManager_Modified.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\popol\Portfolio\CarManager_MSSQL\CarManager\CarManager\obj\Debug\CarManager.exe
+C:\Users\KB\Desktop\popol\Portfolio\CarManager_MSSQL\CarManager\CarManager\obj\Debug\CarManager.pdb

@@ -1,0 +1,26 @@
+인덱스가 범위를 벗어났습니다. 인덱스는 음수가 아니어야 하며 컬렉션의 크기보다 작아야 합니다.
+매개 변수 이름: index
+   위치: System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   위치: System.Collections.Generic.List`1.get_Item(Int32 index)
+   위치: CarManager.Form1..ctor() 파일 C:\Users\KB\Desktop\popol\Portfolio\CarManager_MSSQL\CarManager\CarManager\Form1.cs:줄 21
+인덱스가 범위를 벗어났습니다. 인덱스는 음수가 아니어야 하며 컬렉션의 크기보다 작아야 합니다.
+매개 변수 이름: index
+   위치: System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   위치: System.Collections.Generic.List`1.get_Item(Int32 index)
+   위치: CarManager.Form1..ctor() 파일 C:\Users\KB\Desktop\popol\Portfolio\CarManager_MSSQL\CarManager\CarManager\Form1.cs:줄 21
+인덱스가 범위를 벗어났습니다. 인덱스는 음수가 아니어야 하며 컬렉션의 크기보다 작아야 합니다.
+매개 변수 이름: index
+   위치: System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   위치: System.Collections.Generic.List`1.get_Item(Int32 index)
+   위치: CarManager.Form1..ctor() 파일 C:\Users\KB\Desktop\popol\Portfolio\CarManager_MSSQL\CarManager\CarManager\Form1.cs:줄 21
+인덱스가 범위를 벗어났습니다. 인덱스는 음수가 아니어야 하며 컬렉션의 크기보다 작아야 합니다.
+매개 변수 이름: index
+   위치: System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   위치: System.Collections.Generic.List`1.get_Item(Int32 index)
+   위치: CarManager.Form1..ctor() 파일 C:\Users\KB\Desktop\popol\Portfolio\CarManager_MSSQL\CarManager\CarManager\Form1.cs:줄 21
+인덱스가 범위를 벗어났습니다. 인덱스는 음수가 아니어야 하며 컬렉션의 크기보다 작아야 합니다.
+매개 변수 이름: index
+   위치: System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   위치: System.Collections.Generic.List`1.get_Item(Int32 index)
+   위치: CarManager.Form1..ctor() 파일 C:\Users\KB\Desktop\popol\Portfolio\CarManager_MSSQL\CarManager\CarManager\Form1.cs:줄 21
+[2021-29-21 15:29:54]주차공간 0001이/가 추가되었습니다.
